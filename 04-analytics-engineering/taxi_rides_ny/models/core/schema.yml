@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: dim_zones
+  - name: dim_zones 
     description: >
       List of unique zones idefied by locationid. 
       Includes the service zone they correspond to (Green or yellow).
@@ -34,7 +34,7 @@ models:
 
       - name: service_type
         data_type: string
-        description: ""
+        description: "this is a service type"
 
       - name: ratecodeid
         data_type: int64
