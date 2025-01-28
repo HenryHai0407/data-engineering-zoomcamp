@@ -42,7 +42,7 @@ models:
 
       - name: pickup_locationid
         data_type: int64
-        description: ""
+        description: "this is a pickup location id"
 
       - name: pickup_borough
         data_type: string
